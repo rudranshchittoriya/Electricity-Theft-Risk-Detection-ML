@@ -46,27 +46,7 @@ The dataset contains a `Meter Tampering` field. It is **not used as a predictor*
   - Voltage Risk
   - Range Ratio
 
-## 📁 Project Structure
 
-```text
-Electricity_Theft_Risk_ML/
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── app.py
-├── data/
-│   └── DATASET.md
-├── models/
-│   └── .gitkeep
-├── notebooks/
-│   └── electricity_theft_ml.ipynb
-├── reports/
-│   └── .gitkeep
-└── src/
-    ├── feature_engineering.py
-    ├── train.py
-    └── predict.py
-```
 
 ## 🚀 Run in Google Colab
 
